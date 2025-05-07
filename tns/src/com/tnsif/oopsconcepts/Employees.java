@@ -5,8 +5,7 @@ public class Employees {
 	private int eid;
 	private String ename;
 	private float sal;
-	private String ename;
-	
+
 	//getters and setters 
 	public int getEid() {
 		return eid;
